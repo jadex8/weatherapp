@@ -12,7 +12,7 @@ body{
   /* background-image: url("background.png"); */
   /* background-attachment: fixed; */
   background: rgb(238,174,202);
-  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+  background: linear-gradient(0deg, rgba(225,245,255,1) 0%, rgba(243,209,255,1) 22%, rgba(225,245,255,1) 45%, rgba(243,209,255,1) 67%, rgba(225,245,255,1) 85%, rgba(243,209,255,1) 100%);
   
 }
 
